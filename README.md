@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository that demonstrates repository creation ,branch creation ,editing the README file and opening and merging the pull request.
+This is my first GitHub repository!
